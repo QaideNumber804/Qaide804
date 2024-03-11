@@ -42,7 +42,7 @@ def runtxt(z):
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT TOOLS  :)"%(G))
 	subprocess.check_output(["am", "start", "https://raw.githubusercontent.com/-70/Approvel/main/200%20Tool"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/mh..9440234")
+	exit(" [*] FACEBOOK :  https://www.facebook.com/profile.php?id=100003797414419&mibextid=ZbWKwL)
 
 
 def notice():
@@ -98,22 +98,23 @@ class Main:
 		
 		print ("""\033[1;92m
  ##     ##    ###    ##     ## #### ##    ## 
-###   ###   ## ##   ##     ##  ##  ###   ## 
-#### ####  ##   ##  ##     ##  ##  ####  ## 
-## ### ## ##     ## #########  ##  ## ## ## 
-##     ## ######### ##     ##  ##  ##  #### 
-##     ## ##     ## ##     ##  ##  ##   ### 
-##     ## ##     ## ##     ## #### ##    ## 
+
+ .d8b.  d888888b d888888b d88888b 
+d8' `8b `~~88~~'   `88'   88'     
+88ooo88    88       88    88ooo   
+88~~~88    88       88    88~~~   
+88   88    88      .88.   88      
+YP   YP    YP    Y888888P YP   
                                      
 \033[1;90m═══════════════════════════════════════════════════════════
-\033[1;94m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : MH  
-\033[1;95m [\033[1;94m✯\033[1;91m] \033[1;92mWHATSUP : +8801788953189
-\033[1;93m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : -70
+\033[1;94m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : ATiF KHaN 
+\033[1;95m [\033[1;94m✯\033[1;91m] \033[1;92mWHATSUP : +923313870659
+\033[1;93m [\033[1;94m✯\033[1;91m] \033[1;92mTooL   : Free
 \033[1;97m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : DONT TRY TO COPPY MY SCRYPT
 \033[1;90m═══════════════════════════════════════════════════════════
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sATiF❌ PROO CLONER❌"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
+		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("")
