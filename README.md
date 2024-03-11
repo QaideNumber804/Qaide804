@@ -1,9 +1,10 @@
-pkg update
+pkg update 
 pkg upgrade
 pkg install git
 pip install mechanize
 pip install requests
 pip install bs4
+pip install rich
 git clone https://github.com/QaideNumber804/Atifali4.py.git
-cd Qaide804
-python Atifali4.py
+cd QaideNumber804
+python Atifali1.py
