@@ -49,10 +49,6 @@ def notice():
 
  
 
-	runtxt("\n\033[0;91m🧞‍♀️YOU ARE NOT PREMIUM USER ")
-	runtxt("\033[0;93m 🔇 SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN🧞‍♀️ WHATSAPP >> +923313870659")
-	subprocess.check_output(["am", "start", "https://m.me/Alikhankijan"])
 
 def irfan():
 	
@@ -113,10 +109,10 @@ YP   YP    YP    Y888888P YP
 \033[1;97m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : DONT TRY TO COPPY MY SCRYPT
 \033[1;90m═══════════════════════════════════════════════════════════
     """)
-		print("%s [%s•%s] %sTOOL NAME : %sATiF❌ PROO CLONER❌"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
+		print("%s [%s•%s] %sTOOL NAME : %sOLD Account clone❌ PROO CLONER❌"%(G,R,G,B,G))
+		print("%s [%s•%s] %sVERSION   : %s1.0"%())
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
-		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
+		print("%s [%s•%s] %sSTATUS    : %s"%(ATiF,stat)) 
 		print("")
 		print("%s\033[1;91m [%s1%s]%s\033[1;91m CRACK RANDOM FB ID 2012-15 %s(PRO)"%(R,G,R,Y,G))
 		print("%s\033[1;92m [%s2%s]%s\033[1;92m CRACK RANDOM FB ID 2011-13 %s(PRO)"%(R,G,R,Y,G))
